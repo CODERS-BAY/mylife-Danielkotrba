@@ -22,7 +22,16 @@ Work                |\| ------------
 Additional qualifications |\| ------------
 ------------        | ------------
 Language :          | Englisch (Understand: B2, Speak: B1, Writing: B1)
+<<<<<<< HEAD
+EDV                 | MS Word, MS Excel (Independent use)
+---
+---
+
+
+![Google](https://www.google.at/?hl=de)
+=======
 EDV                 | MS Word, MS Excel 
 
 
 ![google](https://www.google.at/?hl=de)
+>>>>>>> master
