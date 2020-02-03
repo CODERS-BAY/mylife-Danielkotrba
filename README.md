@@ -29,9 +29,3 @@ EDV                 | MS Word, MS Excel (Independent use)
 
 
 ![Google](https://www.google.at/?hl=de)
-=======
-EDV                 | MS Word, MS Excel 
-
-
-![google](https://www.google.at/?hl=de)
->>>>>>> master
