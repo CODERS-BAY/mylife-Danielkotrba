@@ -1,5 +1,6 @@
 ## My Life- DanielKotrba
- ![Profil Bild](images/Profil.jpg)
+ ![Age](images/Jung.png)
+
  
 Personal Information|\|  ------------
 --------------      | -----------
@@ -22,10 +23,10 @@ Work                |\| ------------
 Additional qualifications |\| ------------
 ------------        | ------------
 Language :          | Englisch (Understand: B2, Speak: B1, Writing: B1)
-<<<<<<< HEAD
-EDV                 | MS Word, MS Excel (Independent use)
+EDV                 | MS Word, MS Excel (Independent useage)
+\\\\\               | Sony Vegas Pro (Independent usage)
+\\\\\               |HTML, CSS (knowledge of the basics)
 ---
 ---
 
-
-![Google](https://www.google.at/?hl=de)
+* [The answer to eternal life](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
